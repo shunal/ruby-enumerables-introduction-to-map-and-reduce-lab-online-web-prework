@@ -48,9 +48,9 @@ def reduce_to_total (array, start = 0)
   i = 0 
   truthy = true
   while i < array.length do 
-    if array[i] = false do 
+    if array[i] = false  
       false
-    else do
+    else 
       truthy
     i += 1
   end
