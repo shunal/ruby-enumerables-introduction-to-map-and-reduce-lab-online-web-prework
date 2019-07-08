@@ -52,6 +52,7 @@ def reduce_to_total (array, start = 0)
     end
     i += 1
   end
+  true
   end
   
   
