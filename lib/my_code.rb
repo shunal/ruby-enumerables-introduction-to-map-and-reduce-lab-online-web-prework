@@ -51,7 +51,7 @@ def reduce_to_total (array, start = 0)
     if array[i] = false do 
       false
     else do
-      true
+      truthy
     i += 1
   end
   end
