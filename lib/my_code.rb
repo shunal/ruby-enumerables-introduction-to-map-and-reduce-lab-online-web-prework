@@ -50,6 +50,8 @@ def reduce_to_total (array, start = 0)
   while i < array.length do 
     if array[i] == false  
       false
+      
+    else array[] == true
     end
     i += 1
   end
