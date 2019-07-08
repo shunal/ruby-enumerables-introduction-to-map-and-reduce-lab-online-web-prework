@@ -48,7 +48,7 @@ def reduce_to_total (array, start = 0)
   i = 0 
   while i < array.length do 
     if array[i] == false  
-      false
+      retun false
     end
     i += 1
   end
